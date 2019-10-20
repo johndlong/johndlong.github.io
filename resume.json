@@ -67,13 +67,18 @@
     "summary": "Description..."
   }],
   "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "Javascript"
-    ]
+    "name": "Development",
+    "level": "Well enough",
+      "keywords": [
+        "Python, C++, Bash",
+        "Linux, OSX",
+        "Docker",
+        "Saltstack, Ansible, CloudFormation",
+        "DevOps",
+        "Kubernetes",
+        "VMWare/ESX, Hyper-V, Parallels",
+        "Continuous Integration/Deployment, Jenkins, TravisCI, GitLab CI"
+      ]
   }],
   "languages": [{
     "language": "English",
