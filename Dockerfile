@@ -30,9 +30,12 @@ RUN addgroup -S pptruser && adduser -S -g pptruser pptruser \
 RUN npm install -g resume-cli \
   jsonresume-theme-elegant
 
+RUN npm install -g jsonlint
+
 # Run everything after as non-privileged user.
 
 WORKDIR /build/
 ADD . /build/
+RUN jsonlint resume.json
 RUN resume init && resume export index.html -t elegant
 
