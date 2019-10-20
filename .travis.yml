@@ -1,3 +1,4 @@
+language: node_js
 services:
         - docker
 
@@ -7,13 +8,15 @@ before_install:
         - docker cp dummy:/build/index.html index.html
         - docker rm -f dummy
 
+script: ls
+
 deploy:
         provider: pages
         skip_cleanup: true
         github_token: $GITHUB_TOKEN
         keep_history: true
         on:
-                branch: gh-pages
+                branch: master
 
 
 
