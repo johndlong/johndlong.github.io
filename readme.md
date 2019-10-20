@@ -1,6 +1,8 @@
 dockerized jsonresume
 =====================
 
+[![Build Status](https://travis-ci.org/dsayling/resume.svg?branch=deploy)](https://travis-ci.org/dsayling/resume)
+
 ## want to make your own resume from JSON?
 
 Made with http://jsonresume.org
