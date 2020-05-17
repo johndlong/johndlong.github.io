@@ -1,93 +1,168 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
+    "name": "John Long",
+    "label": "Automation focused, Python aficionado, Skilled code reviewer",
     "picture": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "website": "http://johndoe.com",
-    "summary": "A summary of John Doe...",
+    "email": "john.d.long@gmail.com",
+    "phone": "(919) 656-7521",
+    "website": "https://github.com/johndlong",
+    "summary": "15+ Years Experience in Software Development with a focus on automation. Interested in a variety of areas including automated infrastructure, test automation frameworks, and test case development.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "1587 Washington Ave",
+      "postalCode": "CO 80027",
+      "city": "Louisville",
       "countryCode": "US",
-      "region": "California"
+      "region": "Colorado"
     },
-    "profiles": [{
-      "network": "Twitter",
-      "username": "john",
-      "url": "http://twitter.com/john"
-    }]
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "johndlong",
+        "url": "https://github.com/johndlong"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "John Long",
+        "url": "https://www.linkedin.com/in/john-d-long"
+      },
+      {
+        "network": "Twitter",
+        "username": "jdlongNCSU",
+        "url": "https://twitter.com/jdlongNCSU"
+      }
+    ]
   },
-  "work": [{
-    "company": "Company",
-    "position": "President",
-    "website": "http://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description...",
-    "highlights": [
-      "Started the company"
-    ]
-  }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "website": "http://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description...",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "University",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "gpa": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "website": "http://publication.com",
-    "summary": "Description..."
-  }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "Javascript"
-    ]
-  }],
-  "languages": [{
-    "language": "English",
-    "fluency": "Native speaker"
-  }],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference..."
-  }]
+  "work": [
+    {
+      "company": "NetApp - SolidFire",
+      "position": "Senior Software Engineer in Test",
+      "location": "Boulder, CO",
+      "startDate": "2018-09-15",
+      "summary": "Test Automation Engineer",
+      "highlights": [
+        "Worked on cross functional agile team for various new feature development.  Scoping, developing and implementing automated testing for those features.",
+        "Guided and contributed on transformation to containerized architectures for both test execution and product architectures.",
+        "Served as member of code owner group responsible for performing code reviews on both new test automation and framework contributions."
+      ]
+    },
+    {
+      "company": "Dell EMC",
+      "position": "Software Quality Senior Principal Software Engineer",
+      "location": "Research Triangle Park, NC",
+      "startDate": "2016-05-01",
+      "endDate": "2018-08-25",
+      "summary": "Test Architect",
+      "highlights": [
+        "Test Architect for Data Path of new Midrange Storage Product, reviewing Test Case plans and guiding/implementing test automation strategies.",
+        "Designed and implemented Python-based test automation framework responsible for functional/system testing of Hyper-Converged Product.",
+        "Automation Team Lead for System Test team in charge of Installation and Upgrade areas for VNX and VNXe product lines. Provided mentoring for test automation developers and ensured best practices."
+      ]
+    },
+    {
+      "company": "EMC Corporation",
+      "position": "Principal Software Engineer",
+      "location": "Research Triangle Park, NC",
+      "startDate": "2012-05-01",
+      "endDate": "2016-05-01",
+      "summary": "Test Automation Engineer",
+      "highlights": [
+        "Consulted and contributed to Automated Results and Triage Service team. Built a system that integrates into our test automation platform; automating defect filing, triaging data collections, routing defects to appropriate teams, and identification of duplicate defects.",
+        "Integrated Puppet Enterprise into our Continuous Test Environment. Test Environment required 200-300 clients to be in-sync and perform software updates in a 24/7 test environment without affecting production tests. Developed dozens of Puppet modules for the various software components.",
+        "Improved system test upgrade process by providing reliable and efficient upgrade and downgrade scripts."
+      ]
+    },
+    {
+      "company": "EMC Corporation",
+      "position": "Senior Software Engineer",
+      "location": "Research Triangle Park, NC",
+      "startDate": "2010-05-01",
+      "endDate": "2012-05-01",
+      "highlights": [
+        "Expanded and maintained Perl-based automated test framework used for nightly testing of various data service products on the VNX product line; testing focused primarily on data protection and storage efficiency services.",
+        "Built an easy-to-use CLI framework to wrap around internal engineering tools to accelerate early testing efforts"
+      ]
+    },
+    {
+      "company": "EMC Corporation",
+      "position": "Software Engineer",
+      "location": "Research Triangle Park, NC",
+      "startDate": "2003-05-01",
+      "endDate": "2010-05-01"
+    },
+    {
+      "company": "IBM Corporation",
+      "position": "Software Engineer",
+      "location": "Research Triangle Park, NC",
+      "startDate": "2001-06-01",
+      "endDate": "2002-07-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "North Carolina State University",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "1997-08-01",
+      "endDate": "2001-05-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Lanuages",
+      "level": "Strong",
+      "keywords": [
+        "Python",
+        "Perl"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Exposure",
+      "keywords": [
+        "Ruby",
+        "C#",
+        "C++",
+        "C"
+      ]
+    },
+    {
+      "name": "Development Tools",
+      "keywords": [
+        "Docker",
+        "Docker Compose",
+        "Ansible",
+        "Puppet",
+        "Vagrant",
+        "Packer",
+        "Github Enterprise",
+        "Bitbucket",
+        "Accurev",
+        "Clearcase",
+        "Rally",
+        "JIRA",
+        "Remedy"
+      ]
+    },
+    {
+      "name": "Product Related Experiences",
+      "keywords": [
+        "Scale-out Storage",
+        "SAN",
+        "NAS",
+        "Hyper-Converged Infrastructure",
+        "VMWare",
+        "Fibre Channel",
+        "iSCSI"
+      ]
+    },
+    {
+      "name": "Programming Methodologies",
+      "keywords": [
+        "Object Oriented",
+        "Waterfall",
+        "Agile",
+        "Scaled Agile"
+      ]
+    }
+  ]
 }

@@ -33,6 +33,6 @@ RUN npm install -g resume-cli \
 # Run everything after as non-privileged user.
 
 WORKDIR /build/
-ADD . /build/
+COPY . /build/
 RUN resume init && resume export index.html -t elegant
 

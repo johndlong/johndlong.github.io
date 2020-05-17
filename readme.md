@@ -1,7 +1,7 @@
 dockerized jsonresume
 =====================
 
-[![Build Status](https://travis-ci.org/dsayling/resume.svg?branch=master)](https://travis-ci.org/dsayling/resume)
+[![Build Status](https://travis-ci.org/john.d.long/resume.svg?branch=master)](https://travis-ci.org/dsayling/resume)
 
 ## want to make your own resume from JSON?
 
@@ -31,4 +31,4 @@ more options including publishing to their registry at http://jsonresume.org
 
 Thanks
 ======
-Forked from https://github.com/BretFisher/resume
+Forked from https://github.com/dsayling/resume
