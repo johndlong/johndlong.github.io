@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "John Long",
-    "label": "Automation focused, Python aficionado, Skilled code reviewer",
+    "label": "Software Developer, Automation focused",
     "picture": "",
     "email": "john.d.long@gmail.com",
     "phone": "(919) 656-7521",
-    "website": "https://github.com/johndlong",
+    "website": "https://johndlong.github.io/",
     "summary": "15+ Years Experience in Software Development with a focus on automation. Interested in a variety of areas including automated infrastructure, test automation frameworks, and test case development.",
     "location": {
       "address": "1587 Washington Ave",
@@ -40,8 +40,8 @@
       "startDate": "2018-09-15",
       "summary": "Test Automation Engineer",
       "highlights": [
-        "Worked on cross functional agile team for various new feature development.  Scoping, developing and implementing automated testing for those features.",
-        "Guided and contributed on transformation to containerized architectures for both test execution and product architectures.",
+        "Worked on cross functional agile team for new feature development.  Scoping, developing, and triaging automated testing for those features.",
+        "Guided transformation and contributed to containerized architectures for both test execution and product architectures.",
         "Served as member of code owner group responsible for performing code reviews on both new test automation and framework contributions."
       ]
     },
@@ -147,6 +147,8 @@
       "name": "Product Related Experiences",
       "keywords": [
         "Scale-out Storage",
+        "Shibboleth",
+        "SAML",
         "SAN",
         "NAS",
         "Hyper-Converged Infrastructure",
@@ -164,5 +166,8 @@
         "Scaled Agile"
       ]
     }
-  ]
+  ],
+  "references": [{
+    "name": "Available upon request"
+  }]
 }
