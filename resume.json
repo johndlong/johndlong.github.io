@@ -6,12 +6,12 @@
     "email": "john.d.long@gmail.com",
     "phone": "(919) 656-7521",
     "website": "https://johndlong.github.io/",
-    "summary": "15+ Years Experience in Software Development with a focus on automation. Interested in a variety of areas including automated infrastructure, test automation frameworks, and test case development.",
+    "summary": "20+ Years Experience in Software Development with a focus on automation. Interested in a variety of areas including automated infrastructure, test automation frameworks, and test case development.",
     "location": {
-      "postalCode": "78746",
-      "city": "Austin",
+      "postalCode": "86001",
+      "city": "Flagstaff",
       "countryCode": "US",
-      "region": "Texas"
+      "region": "Arizona"
     },
     "profiles": [
       {
@@ -23,20 +23,28 @@
         "network": "LinkedIn",
         "username": "John Long",
         "url": "https://www.linkedin.com/in/john-d-long"
-      },
-      {
-        "network": "Twitter",
-        "username": "jdlongNCSU",
-        "url": "https://twitter.com/jdlongNCSU"
       }
     ]
   },
   "work": [
     {
+      "company": "F5 Networks (Aspen Mesh)",
+      "position": "Senior Software Engineer in Test",
+      "location": "Louisville, CO",
+      "startDate": "2020-09-15",
+      "summary": "Test Automation Engineer",
+      "highlights": [
+        "Worked on cross functional agile team for new feature development.  Scoping, developing, and triaging automated testing for those features.",
+        "Guided transformation and contributed to containerized architectures for both test execution and product architectures.",
+        "Served as member of code owner group responsible for performing code reviews on both new test automation and framework contributions."
+      ]
+    },
+    {
       "company": "NetApp - SolidFire",
       "position": "Senior Software Engineer in Test",
       "location": "Boulder, CO",
       "startDate": "2018-09-15",
+      "endDate": "2020-09-15",
       "summary": "Test Automation Engineer",
       "highlights": [
         "Worked on cross functional agile team for new feature development.  Scoping, developing, and triaging automated testing for those features.",
