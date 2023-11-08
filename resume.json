@@ -32,11 +32,17 @@
       "position": "Senior Software Engineer in Test",
       "location": "Louisville, CO",
       "startDate": "2020-09-15",
-      "summary": "Test Automation Engineer",
+      "endDate": "2020-11-06",
+      "summary": "Automation Engineer",
       "highlights": [
-        "Worked on cross functional agile team for new feature development.  Scoping, developing, and triaging automated testing for those features.",
-        "Guided transformation and contributed to containerized architectures for both test execution and product architectures.",
-        "Served as member of code owner group responsible for performing code reviews on both new test automation and framework contributions."
+        "Owned test automation around the F5 Aspen Mesh product, expanding test coverage and adding platform platform coverage matrix across various Kubernetes platforms and versions",
+        "Expanded role to include developing features, fixing defects, presenting demos to both internal support teams and customers",
+        "Participated in on-call rotation, helped with triaging escalations, and developed automated tests to reproduce discovered issues",
+        "Migrated CI/CD processes from Jenkins to CircleCI and then later CircleCI to Prow",
+        "Improved build environment from a Kubernetes cluster with static set of nodes to a scale-from-0 configuration resulting in a significant cloud cost reduction",
+        "Designed and implemented a CloudFront w/ Lambda@Edge implementation to replace documentation hosting solution",
+        "Maintained Kubernetes clusters hosting CI/CD tooling, performing cluster upgrades, deployments upgrades, triaging issues",
+        "Created a Slack ChatBot to manage developer cluster usage, costs, and hibernation"
       ]
     },
     {
@@ -47,9 +53,10 @@
       "endDate": "2020-09-15",
       "summary": "Test Automation Engineer",
       "highlights": [
-        "Worked on cross functional agile team for new feature development.  Scoping, developing, and triaging automated testing for those features.",
-        "Guided transformation and contributed to containerized architectures for both test execution and product architectures.",
-        "Served as member of code owner group responsible for performing code reviews on both new test automation and framework contributions."
+        "Created and automated test plans for new feature development as part of an agile team working on a distributed, scale-out storage system",
+        "Helped provide guidance on transformation to containerized architectures for test execution environments, ensuring rapid, consistent, and reliable test execution environments",
+        "Served as member of code owner group responsible for performing code reviews on both new test automation and framework contributions",
+        "Triaged complex distributed testing within CI pipeline and contributed numerous improvements to the tests and pipelines themselves"
       ]
     },
     {
@@ -60,9 +67,9 @@
       "endDate": "2018-08-25",
       "summary": "Test Architect",
       "highlights": [
-        "Test Architect for Data Path of new Midrange Storage Product, reviewing Test Case plans and guiding/implementing test automation strategies.",
-        "Designed and implemented Python-based test automation framework responsible for functional/system testing of Hyper-Converged Product.",
-        "Automation Team Lead for System Test team in charge of Installation and Upgrade areas for VNX and VNXe product lines. Provided mentoring for test automation developers and ensured best practices."
+        "Test Architect for Data Path of new Midrange Storage Product, reviewing Test Case plans and guiding/implementing test automation strategies",
+        "Designed and implemented Python-based test automation framework responsible for functional/system testing of Hyper-Converged Product",
+        "Automation Team Lead for System Test team in charge of Installation and Upgrade areas for VNX and VNXe product lines. Provided mentoring for test automation developers and ensured best practices"
       ]
     },
     {
@@ -73,9 +80,9 @@
       "endDate": "2016-05-01",
       "summary": "Test Automation Engineer",
       "highlights": [
-        "Consulted and contributed to Automated Results and Triage Service team. Built a system that integrates into our test automation platform; automating defect filing, triaging data collections, routing defects to appropriate teams, and identification of duplicate defects.",
-        "Integrated Puppet Enterprise into our Continuous Test Environment. Test Environment required 200-300 clients to be in-sync and perform software updates in a 24/7 test environment without affecting production tests. Developed dozens of Puppet modules for the various software components.",
-        "Improved system test upgrade process by providing reliable and efficient upgrade and downgrade scripts."
+        "Consulted and contributed to Automated Results and Triage Service team. Built a system that integrates into our test automation platform; automating defect filing, triaging data collections, routing defects to appropriate teams, and identification of duplicate defects",
+        "Integrated Puppet Enterprise into our Continuous Test Environment. Test Environment required 200-300 clients to be in-sync and perform software updates in a 24/7 test environment without affecting production tests. Developed dozens of Puppet modules for the various software components",
+        "Improved system test upgrade process by providing reliable and efficient upgrade and downgrade scripts"
       ]
     },
     {
@@ -85,7 +92,7 @@
       "startDate": "2010-05-01",
       "endDate": "2012-05-01",
       "highlights": [
-        "Expanded and maintained Perl-based automated test framework used for nightly testing of various data service products on the VNX product line; testing focused primarily on data protection and storage efficiency services.",
+        "Expanded and maintained Perl-based automated test framework used for nightly testing of various data service products on the VNX product line; testing focused primarily on data protection and storage efficiency services",
         "Built an easy-to-use CLI framework to wrap around internal engineering tools to accelerate early testing efforts"
       ]
     },
@@ -119,49 +126,33 @@
       "level": "Strong",
       "keywords": [
         "Python",
-        "Perl"
+        "Golang"
       ]
     },
     {
       "name": "Programming Languages",
       "level": "Exposure",
       "keywords": [
-        "Ruby",
-        "C#",
         "C++",
-        "C"
+        "Terraform",
+        "Ansible"
       ]
     },
     {
       "name": "Development Tools",
       "keywords": [
+        "Kubernetes",
         "Docker",
-        "Docker Compose",
-        "Ansible",
-        "Puppet",
-        "Vagrant",
-        "Packer",
-        "Github Enterprise",
-        "Bitbucket",
-        "Accurev",
-        "Clearcase",
-        "Rally",
-        "JIRA",
-        "Remedy"
-      ]
-    },
-    {
-      "name": "Product Related Experiences",
-      "keywords": [
-        "Scale-out Storage",
-        "Shibboleth",
-        "SAML",
-        "SAN",
-        "NAS",
-        "Hyper-Converged Infrastructure",
-        "VMWare",
-        "Fibre Channel",
-        "iSCSI"
+        "Helm",
+        "Istio",
+        "CloudFormation",
+        "AWS",
+        "Google Cloud",
+        "Docker",
+        "Jira",
+        "Prow",
+        "CircleCI",
+        "Jenkins"
       ]
     },
     {
