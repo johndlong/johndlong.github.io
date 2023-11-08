@@ -15,11 +15,10 @@ RUN apt-get update && apt-get install curl gnupg -y \
 RUN npm install -g resumed
 
 WORKDIR /build/
-COPY ./ /build/
 
 RUN npm install -g --save jsonresume-theme-eloquent-mod
 
-ARG CACHEBUST=1
+COPY ./ /build/
 
 RUN resumed render resume.json -o index.html -t jsonresume-theme-eloquent-mod
 

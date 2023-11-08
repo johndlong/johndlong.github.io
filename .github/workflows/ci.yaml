@@ -33,7 +33,7 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Build Static Page
-        run: docker buildx build --output . --build-arg CACHEBUST=$(date +%s) -f Dockerfile .
+        run: docker buildx build --output . -f Dockerfile .
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:

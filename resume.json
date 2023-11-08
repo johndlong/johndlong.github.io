@@ -122,35 +122,32 @@
   ],
   "skills": [
     {
-      "name": "Programming Lanuages",
-      "level": "Strong",
+      "name": "Programming Lanuages / Tools",
+      "level": "Core",
       "keywords": [
         "Python",
-        "Golang"
+        "Golang",
+        "Kubernetes",
+        "Docker",
+        "Istio",
+        "Envoy",
+        "Helm",
+        "Github",
+        "Prow"
       ]
     },
     {
-      "name": "Programming Languages",
-      "level": "Exposure",
+      "name": "Programming Languages / Tools",
+      "level": "Familiar",
       "keywords": [
         "C++",
         "Terraform",
-        "Ansible"
-      ]
-    },
-    {
-      "name": "Development Tools",
-      "keywords": [
-        "Kubernetes",
         "Docker",
-        "Helm",
-        "Istio",
+        "Ansible",
         "CloudFormation",
-        "AWS",
+        "Amazon AWS",
         "Google Cloud",
-        "Docker",
         "Jira",
-        "Prow",
         "CircleCI",
         "Jenkins"
       ]
