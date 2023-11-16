@@ -8,10 +8,9 @@
     "website": "https://johndlong.github.io/",
     "summary": "20+ Years Experience in Software Development with a focus on automation. Interested in a variety of areas including automated infrastructure, test automation frameworks, and test case development.",
     "location": {
-      "postalCode": "86001",
-      "city": "Flagstaff",
+      "city": "Raleigh",
       "countryCode": "US",
-      "region": "Arizona"
+      "region": "North Carolina"
     },
     "profiles": [
       {
@@ -28,30 +27,29 @@
   },
   "work": [
     {
-      "company": "F5 Networks",
+      "company": "F5 Networks (Aspen Mesh)",
       "position": "Senior Software Engineer in Test",
       "location": "Louisville, CO",
       "startDate": "2020-09-15",
       "endDate": "2023-11-06",
-      "summary": "Automation Engineer",
       "highlights": [
-        "Owned test automation around the F5 Aspen Mesh product, expanding test coverage and adding platform platform coverage matrix across various Kubernetes platforms and versions",
-        "Expanded role to include developing features, fixing defects, presenting demos to both internal support teams and customers",
+        "Owned test automation and release CI/CD around the F5 Aspen Mesh product",
+        "Expanded role to include developing features, from development of a Kubernetes controller to improvements regarding failover and garbage collection issues",
+        "Contributed to migration of delivery mechanism from Helm/Docker registry to OCI-based registry",
         "Participated in on-call rotation, helped with triaging escalations, and developed automated tests to reproduce discovered issues",
+        "Worked with various build tooling (Bazel, Go tool chains) to apply CVE fixes, leverage build caching, and resolve issues related to building in-house",
         "Migrated CI/CD processes from Jenkins to CircleCI and then later CircleCI to Prow",
+        "Increased test and platform coverage across various Kubernetes platforms and versions",
         "Improved build environment from a Kubernetes cluster with static set of nodes to a scale-from-0 configuration resulting in a significant cloud cost reduction",
-        "Designed and implemented a CloudFront w/ Lambda@Edge implementation to replace documentation hosting solution",
-        "Maintained Kubernetes clusters hosting CI/CD tooling, performing cluster upgrades, deployments upgrades, triaging issues",
-        "Created a Slack ChatBot to manage developer cluster usage, costs, and hibernation"
+        "Designed and implemented a CloudFront w/ Lambda@Edge implementation to replace documentation hosting solution"
       ]
     },
     {
-      "company": "NetApp",
+      "company": "NetApp (SolidFire)",
       "position": "Senior Software Engineer in Test",
       "location": "Boulder, CO",
       "startDate": "2018-09-15",
       "endDate": "2020-09-15",
-      "summary": "Test Automation Engineer",
       "highlights": [
         "Created and automated test plans for new feature development as part of an agile team working on SolidFire, a distributed, scale-out storage system",
         "Helped provide guidance on transformation to containerized architectures for test execution environments, ensuring rapid, consistent, and reliable test execution environments",
@@ -65,7 +63,6 @@
       "location": "Research Triangle Park, NC",
       "startDate": "2016-05-01",
       "endDate": "2018-08-25",
-      "summary": "Test Architect",
       "highlights": [
         "Test Architect for Data Path of new Midrange Storage Product, reviewing Test Case plans and guiding/implementing test automation strategies",
         "Designed and implemented Python-based test automation framework responsible for functional/system testing of Hyper-Converged Product",
@@ -78,7 +75,6 @@
       "location": "Research Triangle Park, NC",
       "startDate": "2012-05-01",
       "endDate": "2016-05-01",
-      "summary": "Test Automation Engineer",
       "highlights": [
         "Consulted and contributed to Automated Results and Triage Service team. Built a system that integrates into our test automation platform; automating defect filing, triaging data collections, routing defects to appropriate teams, and identification of duplicate defects",
         "Integrated Puppet Enterprise into our Continuous Test Environment. Test Environment required 200-300 clients to be in-sync and perform software updates in a 24/7 test environment without affecting production tests. Developed dozens of Puppet modules for the various software components",
