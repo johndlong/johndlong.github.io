@@ -37,11 +37,11 @@
         "Expanded role to include developing features, from development of a Kubernetes controller to improvements regarding failover and garbage collection issues",
         "Contributed to migration of delivery mechanism from Helm/Docker registry to OCI-based registry",
         "Participated in on-call rotation, helped with triaging escalations, and developed automated tests to reproduce discovered issues",
-        "Worked with various build tooling (Bazel, Go tool chains) to apply CVE fixes, leverage build caching, and resolve issues related to building in-house",
+        "Worked with various build tooling (Bazel, Go tool chains) to apply CVE fixes and leverage build caching to reduce build times by 50%",
         "Migrated CI/CD processes from Jenkins to CircleCI and then later CircleCI to Prow",
         "Increased test and platform coverage across various Kubernetes platforms and versions",
-        "Improved build environment from a Kubernetes cluster with static set of nodes to a scale-from-0 configuration resulting in a significant cloud cost reduction",
-        "Designed and implemented a CloudFront w/ Lambda@Edge implementation to replace documentation hosting solution"
+        "Improved build environment from a Kubernetes cluster with static set of nodes to a scale-from-0 configuration resulting in >75% cost reduction",
+        "Eliminated Kubernetes cluster maintenance and 95% of the cloud expenditure of our self-hosted documentation by designing and implementing a CloudFront w/ Lambda@Edge implementation as a replacement"
       ]
     },
     {
