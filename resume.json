@@ -8,9 +8,9 @@
     "website": "https://johndlong.github.io/",
     "summary": "20+ Years Experience in Software Development with a focus on automation. Interested in a variety of areas including automated infrastructure, test automation frameworks, and test case development.",
     "location": {
-      "city": "Raleigh",
+      "city": "Charleston",
       "countryCode": "US",
-      "region": "North Carolina"
+      "region": "South Carolina"
     },
     "profiles": [
       {
@@ -26,6 +26,18 @@
     ]
   },
   "work": [
+    {
+      "company": "Slack",
+      "position": "Senior Software Engineer, Test Infrastructure",
+      "location": "Remote, SC",
+      "startDate": "2024-02-05",
+      "highlights": [
+        "Improved cloning operations by ~85% by switching to reference repo based process",
+        "Supported inclusive language efforts by refactoring CI system to support main as a default branch",
+        "Resolved persistent issue of dropped webwooks by correlating it to our deployment process using Grafana",
+        "Reduced risk of test framework regressions by introducing type checking and python native installation process"
+      ]
+    },
     {
       "company": "F5 Networks (Aspen Mesh)",
       "position": "Senior Software Engineer in Test",
@@ -123,6 +135,7 @@
       "keywords": [
         "Python",
         "Golang",
+        "Hack",
         "Kubernetes",
         "Docker",
         "Istio",
